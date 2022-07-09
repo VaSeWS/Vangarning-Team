@@ -1,6 +1,6 @@
 # World of Tanks: Strategy
 ## Vangarning-Team
-
+Client and bot for online turn-based strategy.
 ### Team
  - [Anna Konkolovich](https://github.com/anyakonkolovich)
  - [Vladislav Yakshuk](https://github.com/liquidgoo)
@@ -19,6 +19,8 @@ Use one of the following:
  - To create game: `python terminal_interface.py {username} {game}
    {num_turns} {num_players}`
  - To start game with 3 simple bots and gui: `python run_game.py`
+
+Game srever is still online (checked 09.07.2022) but it will be turned off in a few months.
  
 If you want to see GUI add `--gui` (terminal_interface.py only, run_game.py runs with gui by default)
 [![gui-screenshot-png.png](https://i.postimg.cc/j5jrGfLk/gui-screenshot-png.png)](https://postimg.cc/jWB9fL6z)
